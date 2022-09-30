@@ -1,0 +1,3 @@
+Link para download do Git:https://git-scm.com/downloads
+Link de comandos do básico ao avnçado do Git:http://comandosgit.github.io/
+O Git Bash é um terminal extendido para otimizar o uso do Git.
